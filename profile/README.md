@@ -1,5 +1,3 @@
-# POCKY
-
 ![Pocky Banner](./pocky-banner.png)
 
 
